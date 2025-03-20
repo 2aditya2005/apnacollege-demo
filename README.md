@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my Git Rpository.
 <br>
-Author - Aditya AVhad
+Author - Aditya AVhad(ad)
